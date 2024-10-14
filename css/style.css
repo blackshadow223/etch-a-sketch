@@ -13,6 +13,13 @@ body {
     gap: 1rem;
 }
 
+button {
+    background-color: lightgrey;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
 .container-sq {
     display: flex;
     flex-wrap: wrap;
@@ -24,4 +31,7 @@ body {
     border: 1px solid grey;
 }
 
-
+.gridChangers {
+    display: flex;
+    gap: 1rem;
+}
