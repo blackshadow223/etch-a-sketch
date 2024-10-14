@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    outline: 2px solid red;
 }
 
 body {
@@ -24,3 +23,5 @@ body {
 .sq {
     border: 1px solid grey;
 }
+
+
